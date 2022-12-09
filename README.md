@@ -1,5 +1,4 @@
 # Informe-Laboratorio-3
-# Laboratorio-2
 
 -Aguirre Johan
 
@@ -122,13 +121,13 @@
 
     -En el presente laboratorio se perfeccionan los conocimientos ya anteriormente adquiridos sobre Leyes de voltaje y de corriente de Kirchhoff, esto nos ayuda a que tengamos mejor manejo sobre análisis de voltaje en nodos. 
 
-  -Este método nos facilitó encontrar los voltajes que pueden encontrarse en el nodo y así nos podrá ayudará para encontrar la corriente que pase por las resistencias presentes en nuestro circuito. 
+   -Este método nos facilitó encontrar los voltajes que pueden encontrarse en el nodo y así nos podrá ayudará para encontrar la corriente que pase por las resistencias presentes en nuestro circuito. 
 
-  -En el desarrollo de este informe, se obtienen conocimientos nuevos, no tanto por las investigaciones, sino que también por los conocimientos compartidos entre nosotros los integrantes del grupo colaborativo. 
+   -En el desarrollo de este informe, se obtienen conocimientos nuevos, no tanto por las investigaciones, sino que también por los conocimientos compartidos entre nosotros los integrantes del grupo colaborativo. 
    
  7.	BIBLIOGRAFÍA
     -SensoRicx. (2020). Análisis de Nodos. Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/  
 
     -Khan Academy. (2019). La terminologia de los circuitos. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology#:~:text=Nodo%20%E2%80%93%20Una%20uni%C3%B3n%20en%20donde,abstracta%20por%20los%20rect%C3%A1ngulos%20anaranjados).  
 
-   -FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN 
+    -FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN 
