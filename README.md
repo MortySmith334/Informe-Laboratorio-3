@@ -43,11 +43,31 @@
    
    ![image](https://user-images.githubusercontent.com/116812841/206635587-a186fde1-cc9f-4e8c-95d8-605b13f72e02.png)
    
-   *Método de mallas para econtrar I1, I2 E I3.
+   *Método de mallas para econtrar I1, I2 E I3.*
 
-    ![image](https://user-images.githubusercontent.com/116812841/206635939-47080d2f-af4f-4f4e-8c69-7c5b2296972b.png)
+   ![image](https://user-images.githubusercontent.com/116812841/206635939-47080d2f-af4f-4f4e-8c69-7c5b2296972b.png)
     
-    *Resolución de las ecuaciones por el método Gauss Jordan.
+   *Resolución de las ecuaciones por el método Gauss Jordan.*
+   
+   ![2](https://user-images.githubusercontent.com/116812841/206636200-581db42b-82f5-47c5-ba5d-bd2d8de0e304.png)
+   
+   ![3](https://user-images.githubusercontent.com/116812841/206636240-60659cdb-2686-4b0c-a453-f121ddaf1b3a.png)
+   
+   ![4](https://user-images.githubusercontent.com/116812841/206636255-2f4b1801-3a1f-4878-acac-437635864acf.png)
+   
+   ![5](https://user-images.githubusercontent.com/116812841/206636301-e5a90755-2020-40c7-8489-3cc0292c29cd.png)
+   
+   *Valores de I1, I2 E I3.*
+   
+   ![6](https://user-images.githubusercontent.com/116812841/206636316-0c1c0492-8cd1-4d08-a298-98cd87037958.png)
+   
+   *ENCONTRAR VOLTAJES DE LOS NODOS*
+   
+   ![7](https://user-images.githubusercontent.com/116812841/206636845-1c779a0d-7d06-438b-b7b5-4306d7512ccc.png)
+
+![8](https://user-images.githubusercontent.com/116812841/206636860-a9de88dc-7015-424d-9308-bb4f93a180e4.png)
+
+![9](https://user-images.githubusercontent.com/116812841/206636876-16d6d64d-86a6-4072-a943-bffef303501c.png)
 
 
    ii.	Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
@@ -68,7 +88,7 @@
    
    iv.	Compare los valores de la tabla 3.1 y realice sus conclusiones.
    
-   *Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.* 
+  *Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.* 
    
    
    
