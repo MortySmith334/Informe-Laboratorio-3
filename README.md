@@ -126,6 +126,7 @@
     -En el desarrollo de este informe, se obtienen conocimientos nuevos, no tanto por las investigaciones, sino que también por los conocimientos compartidos entre nosotros los integrantes del grupo colaborativo. 
    
  7.	BIBLIOGRAFÍA
+
     -SensoRicx. (2020). Análisis de Nodos. Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/  
 
     -Khan Academy. (2019). La terminologia de los circuitos. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology#:~:text=Nodo%20%E2%80%93%20Una%20uni%C3%B3n%20en%20donde,abstracta%20por%20los%20rect%C3%A1ngulos%20anaranjados).  
