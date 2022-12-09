@@ -90,35 +90,45 @@
    
   *Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.* 
    
-   
-   
+   ![image](https://user-images.githubusercontent.com/116812841/206637615-6c082791-07b1-4be3-ac48-603b1cd96b7f.png)
+
    
 4.	CÁLCULO DEL ERROR
 
 [![56.png](https://i.postimg.cc/tCMnrcJk/56.png)](https://postimg.cc/crfJCXQt)
 
-*MARGEN DE ERROR EN LA INTENSIDAD DE M1*
+*MARGEN DE ERROR EN EL VOLTAJE DEL NODO 1*
 
-  ![image](https://user-images.githubusercontent.com/116812841/202637334-04214bd9-17b3-4701-919a-90ad9f76bcb0.png)
+  ![N1](https://user-images.githubusercontent.com/116812841/206638033-a32a9b87-59de-453e-bc54-e45f690e8239.png)
   
-*MARGEN DE ERROR EN LA INTENSIDAD DE M2*
+*MARGEN DE ERROR EN EL VOLTAJE DEL NODO 2*
 
-  ![image](https://user-images.githubusercontent.com/116812841/202637401-42146c32-a573-40f4-bc02-c8147b9f10cd.png)
+  ![N2](https://user-images.githubusercontent.com/116812841/206638049-4d78a535-c199-48b7-a5ee-f36bc6edd977.png)
 
-*MARGEN DE ERROR EN LA INTENSIDAD DE M3*
+*MARGEN DE ERROR EN EL VOLTAJE DEL NODO 3*
 
-  ![image](https://user-images.githubusercontent.com/116812841/202637452-ec09431a-2033-4bc5-abf6-27b0f384fb60.png)
+  ![N3](https://user-images.githubusercontent.com/116812841/206638062-03144975-b972-4144-b936-b40c04056d8a.png)
+
+*MARGEN DE ERROR EN EL VOLTAJE DEL NODO 4*
+
+  ![N4](https://user-images.githubusercontent.com/116812841/206638081-6ad246ce-d0ba-4e40-bb62-19af9ef5b61c.png)
+
 
 5.	VIDEO
 
-   https://www.youtube.com/watch?v=e-cxWwasZ6o
+   
  
 7.	CONCLUSIONES
 
-    -	Se recomienda tener cuidado al realizar las conexiones en el protoboard, ya que estas deben estar bien hechas antes de conectar las fuentes.
-    -	Dar un buen trato a los instrumentos de medición como el multímetro, de caso contrario los instrumentos pueden sufrir algún daño grave.
-    -	En la realización de esta práctica verificamos y además aprendimos a manejar de una manera correcta el protoboard, que también nos ayudó a conectar los distintos tipos de circuitos o mallas.
+    -En el presente laboratorio se perfeccionan los conocimientos ya anteriormente adquiridos sobre Leyes de voltaje y de corriente de Kirchhoff, esto nos ayuda a que tengamos mejor manejo sobre análisis de voltaje en nodos. 
+
+  -Este método nos facilitó encontrar los voltajes que pueden encontrarse en el nodo y así nos podrá ayudará para encontrar la corriente que pase por las resistencias presentes en nuestro circuito. 
+
+  -En el desarrollo de este informe, se obtienen conocimientos nuevos, no tanto por las investigaciones, sino que también por los conocimientos compartidos entre nosotros los integrantes del grupo colaborativo. 
    
  7.	BIBLIOGRAFÍA
-    -	Khan Academy. (2020). El método de la corriente de malla. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method 
-    -	Análisis de circuitos. (2019). Capítulo 21: Análisis de Mallas. Recuperado de: https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/ 
+    -SensoRicx. (2020). Análisis de Nodos. Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/  
+
+    -Khan Academy. (2019). La terminologia de los circuitos. Recuperado de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology#:~:text=Nodo%20%E2%80%93%20Una%20uni%C3%B3n%20en%20donde,abstracta%20por%20los%20rect%C3%A1ngulos%20anaranjados).  
+
+   -FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN 
